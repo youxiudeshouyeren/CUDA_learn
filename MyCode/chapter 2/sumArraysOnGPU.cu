@@ -88,6 +88,7 @@ int main()
     dim3 block(nElem);
     dim3 grid(nElem / block.x);
 
+    //放入一个块内 其中包含32个元素
     sumArrayOnGPU <<< grid, block>>>(d_A, d_B, d_C);
     printf("Execution configuration <<<%d,%d>>>\n", grid.x, block.x);
 

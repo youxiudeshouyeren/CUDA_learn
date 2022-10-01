@@ -1,0 +1,3 @@
+/home/sjx/code/CUDA_learn/MyCode/gemm/build/CMakeFiles/first_attempt.dir
+/home/sjx/code/CUDA_learn/MyCode/gemm/build/CMakeFiles/edit_cache.dir
+/home/sjx/code/CUDA_learn/MyCode/gemm/build/CMakeFiles/rebuild_cache.dir
